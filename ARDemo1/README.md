@@ -8,3 +8,7 @@
 
 - ardemo1.apk 파일을 다운로드하여 안드로이드 휴대폰에 설치한다.
 - ardemo1_qrcode_cat.jpg, ardemo1_qrcode_sheep.jpg 파일을 열어서 카메라로 비춰본다.
+
+## QRCode로 설치 링크 바로가기
+
+- ![apkqrcode](https://github.com/jongfeel/somul2019/blob/master/ARDemo1/APK_download_QRCode.jpg?raw=true)
